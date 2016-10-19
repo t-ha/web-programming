@@ -1,0 +1,51 @@
+/*
+Timothy Ha
+06.04.14
+CSE 154 AP
+Jiaming Li
+Assignment #9: Baby Names
+*/
+
+body {
+	font-family: Georgia, serif;
+	font-size: 12pt;
+}
+
+.doneloading {
+	display: none;
+}
+
+.error {
+	background-color: #FFBBBB;
+}
+
+.loading {
+	display: inline-block;
+}
+
+q {
+	font-style: italic;
+}
+
+.rankingBar {
+	background-color: #FFBBBB;
+	font-weight: bold;
+	width: 50px;
+}
+
+.results {
+	display: block;
+}
+
+table {
+	text-align: center;
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;
+}
+
+.topRank {
+	color: red;
+}

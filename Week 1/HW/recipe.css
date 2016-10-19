@@ -1,0 +1,52 @@
+/*
+Timothy Ha
+04.09.14
+CSE 154 AP
+Jiaming Li
+recipe.css
+*/
+
+body {
+	background-attachment: fixed;
+	background-color: #FFFFFF;
+	background-image:url('https://webster.cs.washington.edu/images/silverware.jpg');
+	color: #404040;
+	font-family: Georgia, Garamond, serif;
+	font-size: 11pt;
+}
+
+h1, h2 {
+	background-color: #F0F0F0;
+	color: #A4A400;
+	font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	letter-spacing: 0.25em;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 22pt;
+	text-align: center;
+}
+
+h2 {
+	font-size: 18pt;
+	font-weight: normal;
+	text-align: left;
+}
+
+abbr {
+	text-decoration: underline;
+}
+
+blockquote {
+	background-color: #FFFFA8;
+	font-style: italic;
+}
+
+a {
+	color: #A4A400;
+}
+
+ul {
+	list-style-image:url('https://webster.cs.washington.edu/images/pie-icon.gif');
+}

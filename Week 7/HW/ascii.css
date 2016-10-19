@@ -1,0 +1,55 @@
+/*
+Timothy Ha
+05.21.14
+CSE 154 AP
+Jiaming Li
+Assignment #7: ASCIImation
+*/
+
+body {
+	background-color: #CCCCFF;
+	font-family: sans-serif;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.controls {
+	border: 5px solid black;
+	border-radius: 10px;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+}
+
+.controls legend {
+	text-align: left;
+}
+
+h1 {
+	font-size: 32pt;
+	margin: 0;
+}
+
+#main {
+	text-align: center;
+}
+
+textarea {
+	resize: none;
+}
+
+#textbox {
+	font-size: 12pt;
+	font-family: monospace;
+	height: 400px;
+	width: 90%;
+}
+
+#textField {
+	border: none;
+}
+
+#validators a {
+	clear: right;
+	float: right;
+}

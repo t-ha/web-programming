@@ -1,0 +1,38 @@
+/*
+Timothy Ha
+05.28.14
+CSE 154 AP
+Jiaming Li
+Assignment #8: Fifteen Puzzle
+*/
+
+body {
+	cursor: default;
+	font-family: cursive;
+	font-size: 14pt;
+	text-align: center;
+}
+
+#puzzlearea {
+	height: 400px;
+	margin: 0 auto 0 auto;
+	position: relative;
+	width: 400px;
+}
+
+.tile, .invalid {
+	background-image: url('background.jpg');
+	border: 5px solid black;
+	display: inline-block;
+	float: left;
+	font-size: 40pt;
+	height: 90px;
+	position: absolute;
+	width: 90px;
+}	
+
+.tile:hover {
+	border-color: red;
+	color: red;
+	cursor: pointer;
+}

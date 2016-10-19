@@ -1,0 +1,54 @@
+/*
+Timothy Ha
+05.14.14
+CSE 154
+Jiaming Li
+Assignment #6: Kevin Bacon
+
+Style for Kevin Bacon assignment
+*/
+
+.banner {
+	background-image: url('https://webster.cs.washington.edu/images/kevinbacon/banner-background.png');
+	background-repeat: repeat-x;
+	color: white;
+	padding: 1em;
+}
+
+body {
+	background-color: #DAD9D4;
+	font-family: Verdana, sans-serif;
+	margin: 0;
+}
+
+form {
+	margin: 2em auto 2em auto;
+	width: 24em;
+}
+
+#frame {
+	margin: 0 auto 0 auto;
+	width: 90%;
+}
+
+#main {
+	background-color: white;
+	margin: 0;
+	overflow: hidden;
+	text-align: center;
+}
+
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 0 auto 0 auto;
+	width: 80%;
+}
+
+td {
+	padding: 0.2em;
+}
+
+tr:nth-child(even) {
+	background-color: #DAD9D4;
+}

@@ -1,0 +1,28 @@
+/*
+Timothy Ha
+04.03.14
+CSE 154 AP
+Jiaming Li
+*/
+
+h1 {
+	font-family: Arial;
+	color: #00338C;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #363636;
+}
+
+p {
+	font-family: courier;
+}
+
+body {
+	background-color: #F2F7FF;
+}
+
+hr {
+	border-color: #FFFFFF;
+}

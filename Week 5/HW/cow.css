@@ -1,0 +1,25 @@
+/*
+Timothy Ha
+05.07.14
+CSE 154 AP
+Jiaming Li
+Assignment #5: To-Do List
+
+optional css: cow.css
+*/
+
+h2 {
+	text-decoration: underline;
+}
+
+#main {
+	background-color: #EBEBEB;
+	border: 2px dashed #005AB4;
+	margin: 2em auto 2em auto;
+	padding: 1em;
+	width: 580px;
+}
+
+#startError {
+	color: red;
+}

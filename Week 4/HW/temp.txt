@@ -1,0 +1,6 @@
+Anakin Skywalker,M,27,INTJ,Linux,15,30
+Edsger Dijkstra,M,72,ISTP,Linux,16,58
+James Gosling,M,55,ESFJ,Linux,18,40
+Leeloo,F,19,ISTJ,Linux,1,99
+Nostalgia Critic,M,28,ENTJ,Linux,12,79
+Rasmus Lerdorf,M,41,ENTP,Linux,15,35
